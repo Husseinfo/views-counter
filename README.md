@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/20 12:00 AM UTC
+			2023/5/21 12:00 AM UTC
 		</td>
 		<td>
-			680
+			684
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/90946301/small/year.png" height="20"> 1679
+			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/90946301/small/year.png" height="20"> 1685
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/20 1:09 AM UTC
+			2023/5/21 1:16 AM UTC
 		</td>
 		<td>
 			129
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/20 1:10 AM UTC
+			2023/5/21 12:00 AM UTC
 		</td>
 		<td>
-			85
+			86
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/546254082/small/year.png" height="20"> 109
+			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/546254082/small/year.png" height="20"> 111
 		</td>
 	</tr>
 	<tr>
@@ -74,18 +74,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/20 12:00 AM UTC
+			2023/5/21 12:00 AM UTC
 		</td>
 		<td>
-			398
+			399
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/565507905/small/year.png" height="20"> 1250
+			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/565507905/small/year.png" height="20"> 1253
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/5/22 1:15 AM UTC</i></small>
+<small><i>Last updated on 2023/5/23 1:12 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
