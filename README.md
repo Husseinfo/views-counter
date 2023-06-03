@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/31 12:00 AM UTC
+			2023/6/1 12:00 AM UTC
 		</td>
 		<td>
-			713
+			715
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/90946301/small/year.png" height="20"> 1759
+			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/90946301/small/year.png" height="20"> 1763
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/31 1:22 AM UTC
+			2023/6/1 12:00 AM UTC
 		</td>
 		<td>
-			131
+			133
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/522266410/small/year.png" height="20"> 257
+			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/522266410/small/year.png" height="20"> 259
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/31 12:00 AM UTC
+			2023/6/1 12:00 AM UTC
 		</td>
 		<td>
-			89
+			91
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/546254082/small/year.png" height="20"> 115
+			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/546254082/small/year.png" height="20"> 117
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/31 12:00 AM UTC
+			2023/6/1 1:49 AM UTC
 		</td>
 		<td>
 			418
@@ -85,7 +85,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/6/2 1:24 AM UTC</i></small>
+<small><i>Last updated on 2023/6/3 1:23 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
