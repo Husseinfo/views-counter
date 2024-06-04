@@ -1,7 +1,7 @@
-## [🔙 views-counter](https://github.com/Husseinfo/views-counter)
+## [🔙 views-counter](https://github.com/hupta/views-counter)
 
-### :octocat: [countin](https://github.com/Husseinfo/countin)
-![Image of views-counter](https://github.com/Husseinfo/views-counter/blob/master/graph/522266410/large/year.png)
+### :octocat: [countin](https://github.com/hupta/countin)
+![Image of views-counter](https://github.com/hupta/views-counter/blob/master/graph/522266410/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/6/3 1:08 AM UTC</i></small>
+<small><i>Last updated on 2024/6/4 1:07 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of views-counter](https://github.com/Husseinfo/views-counter/blob/master/svg/522266410/badge.svg)](https://github.com/Husseinfo/views-counter/blob/master/readme/522266410/week.md)
+[![Image of views-counter](https://github.com/hupta/views-counter/blob/master/svg/522266410/badge.svg)](https://github.com/hupta/views-counter/blob/master/readme/522266410/week.md)
 ```readme
-[![Image of views-counter](https://github.com/Husseinfo/views-counter/blob/master/svg/522266410/badge.svg)](https://github.com/Husseinfo/views-counter/blob/master/readme/522266410/week.md)
+[![Image of views-counter](https://github.com/hupta/views-counter/blob/master/svg/522266410/badge.svg)](https://github.com/hupta/views-counter/blob/master/readme/522266410/week.md)
 ```
 ### Header
-# countin [<img alt="Image of views-counter" src="https://github.com/Husseinfo/views-counter/blob/master/graph/522266410/small/year.png" height="20">](https://github.com/Husseinfo/views-counter/blob/master/readme/522266410/year.md)
+# countin [<img alt="Image of views-counter" src="https://github.com/hupta/views-counter/blob/master/graph/522266410/small/year.png" height="20">](https://github.com/hupta/views-counter/blob/master/readme/522266410/year.md)
 ```readme
-# countin [<img alt="Image of views-counter" src="https://github.com/Husseinfo/views-counter/blob/master/graph/522266410/small/year.png" height="20">](https://github.com/Husseinfo/views-counter/blob/master/readme/522266410/year.md)
+# countin [<img alt="Image of views-counter" src="https://github.com/hupta/views-counter/blob/master/graph/522266410/small/year.png" height="20">](https://github.com/hupta/views-counter/blob/master/readme/522266410/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
