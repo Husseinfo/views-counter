@@ -21,78 +21,78 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hupta/views-counter/tree/master/readme/90946301/year.md">
+			<a href="https://github.com/Husseinfo/views-counter/tree/master/readme/90946301/year.md">
 				tracker
 			</a>
 		</td>
 		<td>
-			2024/6/2 12:00 AM UTC
+			2024/6/3 1:08 AM UTC
 		</td>
 		<td>
 			1700
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hupta/views-counter/raw/master/graph/90946301/small/year.png" height="20"> 5573
+			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/90946301/small/year.png" height="20"> 5573
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hupta/views-counter/tree/master/readme/522266410/year.md">
+			<a href="https://github.com/Husseinfo/views-counter/tree/master/readme/522266410/year.md">
 				countin
 			</a>
 		</td>
 		<td>
-			2024/6/2 1:11 AM UTC
+			2024/6/3 1:08 AM UTC
 		</td>
 		<td>
 			395
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hupta/views-counter/raw/master/graph/522266410/small/year.png" height="20"> 845
+			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/522266410/small/year.png" height="20"> 845
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hupta/views-counter/tree/master/readme/546254082/year.md">
+			<a href="https://github.com/Husseinfo/views-counter/tree/master/readme/546254082/year.md">
 				material-icons-extended-search
 			</a>
 		</td>
 		<td>
-			2024/6/2 12:00 AM UTC
+			2024/6/3 1:08 AM UTC
 		</td>
 		<td>
 			210
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hupta/views-counter/raw/master/graph/546254082/small/year.png" height="20"> 279
+			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/546254082/small/year.png" height="20"> 279
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hupta/views-counter/tree/master/readme/565507905/year.md">
+			<a href="https://github.com/Husseinfo/views-counter/tree/master/readme/565507905/year.md">
 				interfast
 			</a>
 		</td>
 		<td>
-			2024/6/2 12:00 AM UTC
+			2024/6/3 12:00 AM UTC
 		</td>
 		<td>
-			1223
+			1225
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hupta/views-counter/raw/master/graph/565507905/small/year.png" height="20"> 4127
+			<img alt="Response time graph" src="https://github.com/Husseinfo/views-counter/raw/master/graph/565507905/small/year.png" height="20"> 4136
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/6/4 1:08 AM UTC</i></small>
+<small><i>Last updated on 2024/6/5 1:07 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
-[![Image of https://github.com/hupta/views-counter](https://github.com/hupta/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hupta/views-counter)
+[![Image of https://github.com/Husseinfo/views-counter](https://github.com/Husseinfo/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Husseinfo/views-counter)
 
 ```readme
-[![Image of https://github.com/hupta/views-counter](https://github.com/hupta/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hupta/views-counter)
+[![Image of https://github.com/Husseinfo/views-counter](https://github.com/Husseinfo/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Husseinfo/views-counter)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
